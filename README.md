@@ -1,4 +1,5 @@
-Full-stack Server-Client Secure vs Insecure Demo
+ENHANCING IoT SECURITY: IMPLEMENTING A SECURE MQTT PROTOCOL
+
 ================================================
 
 Contents:
